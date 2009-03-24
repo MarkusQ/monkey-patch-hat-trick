@@ -1,0 +1,4 @@
+This is a simple proof-of-concept for isolating monkey patches 
+in ruby and ruby like languages.  If you weren't part of the 
+discussion, it is unlikely to make sense to you, but you are
+free to ponder it if your navel isn't sufficient.
